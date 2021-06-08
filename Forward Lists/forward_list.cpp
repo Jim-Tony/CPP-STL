@@ -1,4 +1,4 @@
-//This Container is mainly used for Single Linked List in Data Structure
+//This Container is mainly used for Singly Linked List in Data Structure
 #include<bits/stdc++.h>
 using namespace std;
 void disp(const forward_list<int> fll){
